@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MichelleMcLernon
 - 👀 I’m interested in switching career from Chemistry teaching to a job in tech.
-- 🌱 I’m currently learning Python with Code First Girls.
+- 🌱 I’ve completed a Python course with Code First Girls.
+- 🌱 I’m now working on a front end web development course with Code First Girls.
 - 📫 How to reach me michelle.mclernon@gmail.com
 
 <!---
